@@ -1,7 +1,8 @@
 # CSCE1015 - Hochstetler
 Assignment repository for UNT CSCE1015
 ## EUID
+$at1866
 
 ## Favorite Professor
-$(YOUR_FAVORITE_PROFESSOR)
 $(Mohammed Abutayyem)
+
